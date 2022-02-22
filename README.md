@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishal6803
-- 👀 I’m interested inweb development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning computer scienece skills
 - 💞️ I’m looking to collaborate on web and app development projects
 - 📫 Reach me through email vishal68200@gmail.com
